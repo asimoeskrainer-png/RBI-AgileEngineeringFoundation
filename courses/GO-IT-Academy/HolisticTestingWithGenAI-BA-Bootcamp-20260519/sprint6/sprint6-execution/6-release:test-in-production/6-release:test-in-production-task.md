@@ -20,7 +20,7 @@ The focus is on:
 
 ## General Task Idea
 
-A new payment method was integrated into the webshop.
+A new payment method was integrated into the webshop with user story US3100.
 
 In non-production environments, only a dummy implementation of the
 payment gateway was available. Because of this limitation, several
