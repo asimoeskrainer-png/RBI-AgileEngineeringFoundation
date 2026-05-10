@@ -1,0 +1,14 @@
+# T1T5 Test Set for Registration
+
+### T1_REGISTRATION_withValidEMail_loginIsDisplyed
+
+### T2_REGISTRATION_withGoogleAccount_loginIsDisplayed
+### T2_REGISTRATION_withGithubAccount_loginIsDisplayed
+
+### T3_REGISTRATION_withCorrecteTypeInPassword_loginIsDisplayed
+
+### T4_REGISTRATION_withALreadyUsedEMail_errorMessageIsDisplayed
+### T4_REGISTRATION_withMissingMandatoryFields_loginIsDisplayed
+### T4_REGISTRATION_withExpiredConfirmationLink_loginIsDisplayed
+
+### T5_REGISTRATION_withSQLInjection_errorMessageIsDisplayed
