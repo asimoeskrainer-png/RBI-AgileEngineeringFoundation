@@ -1,14 +1,15 @@
-# Hands-On Task: Production Payment Log Analysis
 
-## Objective
+# Transfer Task: Production Payment Log Analysis
 
-Analyze production payment test logs and create a structured Test
+## 1. Description
+
+Analyze production payment logs and create a structured Test
 Summary Report based on the identified findings, risks, and failure
 patterns.
 
 ---
 
-# Background
+## 2. Background
 
 A new payment gateway was deployed to production.
 
@@ -23,12 +24,23 @@ The provided log files contain:
 - Runtime behavior
 - Success and failure information
 
+
 ---
 
-# Task Description
+## 3. References
 
-## Part 1 - Analyze the Logs
+- File:         sprint6-input/sprint6-content.md
+- File:         sprint6-input/sprint6-sprintGoal.md
+- User Stories: sprint6-input/USxx.md
+- LogFiles:     7-observe_monitor-errors-warnings/test*.log
 
+---
+
+## Task Description
+
+### Part 1 - Analyze the Logs
+
+Analyze the logfiles 7-observe_monitor-errors-warnings/test*.log
 Identify:
 - Passed and failed tests
 - Critical failure patterns
@@ -39,7 +51,7 @@ Identify:
 
 ---
 
-## Part 2 - Assess Risks
+### Part 2 - (Title))
 
 Analyze:
 - Business impact
@@ -51,7 +63,7 @@ Analyze:
 
 ---
 
-## Part 3 - Create Test Summary Report
+### Part 3 - (Title)
 
 Create a report containing:
 - Executive Summary
@@ -60,6 +72,7 @@ Create a report containing:
 - Risk Assessment
 - Recommendations
 - Release Recommendation
+- list of logfiles used for this task
 
 Use one of:
 - Go
@@ -67,9 +80,3 @@ Use one of:
 - No-Go
 
 Justify your recommendation based on the findings.
-
----
-
-# Timebox
-
-60-90 minutes
